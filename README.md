@@ -12,8 +12,9 @@ Collection of scripts to launch Desktops with audio in Termux X11. You have also
 * 🏁 [First steps](#first-steps)
 * ⚔️ [Termux native VS Proot-distro VS Chroot](#choose-linux)
 * 🐧 [How to install proot distributions: Alpine, Ubuntu, Debian, Arch, Kali Nethunter, Parrot OS, PostMarket OS](#proot-distributions)
-* 💀 [How to install Chroot distributions: Ubuntu, Debian, Box64Droid](#chroot-distributions)
+* 💀 [How to install Chroot distributions: Ubuntu, Debian, Arch](#chroot-distributions)
 * 💻 [How to install Termux Native Desktop](#termux-native)
+* ❓ [QNA](#qna)
 * 🔥 [Hardware acceleration in Termux](https://github.com/LinuxDroidMaster/Termux-Desktops/blob/main/Documentation/HardwareAcceleration.md)
 
 <br>
@@ -132,7 +133,7 @@ Click on the different icons to see how you can install the distribution of your
 ## 💻 How to install Termux Native Desktop <a name=termux-native></a>
 ### You have all the information to install a native Termux Desktop and all the available apps [here](/Documentation/native/termux_native.md).
 
-## ❓ QNA (Questions and their answers)
+## ❓ QNA (Questions and their answers) <a name=qna></a>
 # Which one do I use?
 
 To answer your question:
